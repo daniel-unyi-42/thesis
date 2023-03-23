@@ -20,6 +20,6 @@ discovered connections, and I look for literature evidence to reinforce my hypot
 
 Evaluation confirms that by applying graph convolutions, we can accomplish the most
 important graph-related modeling tasks, and the proposed architecture is able to provide
-state-of-the-art results.
+state-of-the-art results. Code is available [here](https://github.com/daniel-unyi-42/GC-VAE).
 
 ![alt text](https://github.com/daniel-unyi-42/thesis/blob/main/pubmed.png)
